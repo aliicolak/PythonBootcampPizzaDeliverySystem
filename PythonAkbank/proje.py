@@ -1,6 +1,6 @@
+#Muhammet Ali ÇOLAK Tarafından Geliştirildi
 import pandas as pd
 from datetime import datetime
-
 class Pizza():# pizza class'ı oluşturuldu 
          def __init__(self,description,price):
           #pizza kullanıcıdan gelen seçimler ile oluşturuldu
