@@ -1,4 +1,4 @@
-#Muhammet Ali ÇOLAK Tarafından Geliştirildi
+#Bu Proje Muhammet Ali ÇOLAK Tarafından Geliştirilmiştir.
 import pandas as pd
 from datetime import datetime
 class Pizza():# pizza class'ı oluşturuldu 
